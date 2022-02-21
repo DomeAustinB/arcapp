@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1099190131240",
+    "project_id": "arcapp-44fd5",
+    "storage_bucket": "arcapp-44fd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099190131240:android:af4cf53115845f40eef31d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099190131240-8t84nj6tvh956vl02tdh2fk9fubbarlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "2818056bf9260271918032d6e446fff8828ced57"
+          }
+        },
+        {
+          "client_id": "1099190131240-1q74u3foku2a51dm7iekjmifu2rumkec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCDGN6YzU8JGtFF1rBHIGtFMzVjUS8-es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099190131240-1q74u3foku2a51dm7iekjmifu2rumkec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
